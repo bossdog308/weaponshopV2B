@@ -1,4 +1,4 @@
-# gunstore
+# gun store
 more recent[working on ammo sync]
 
 
@@ -8,7 +8,7 @@ more recent[working on ammo sync]
         v1.0.0
             - Initial Release
         v1.0.1
-            - Added Glock 27 and Glock 26
+            - Added Glock 27 and Glock 26 (handguns)
             - Added Ammo Types
             - Added Attachments
             - Added Config file
